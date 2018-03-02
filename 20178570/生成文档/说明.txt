@@ -1,0 +1,3 @@
+点击生成文档,则会在该目录下生成new.ppsx文件
+
+将自定义的thumbnail.jpg缩略图放在根目录下，在ppsx_title.txt中自定义文档内容，makeppsx中修改title即可

