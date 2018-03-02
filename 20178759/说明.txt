@@ -1,0 +1,4 @@
+木马		 1.hta
+response模板	 tmp.txt
+生成的response	 1.txt
+生成回复包	 makerespnose.py http://xx.xx.xx.xx(为本机web服务器地址)
